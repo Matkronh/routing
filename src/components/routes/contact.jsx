@@ -1,3 +1,5 @@
+import styles from '../frame/styles.module.css'
+
 function Contact(){
     return (
     <>

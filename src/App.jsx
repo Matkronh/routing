@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route, } from 'react-router-dom'
-import Layout from './components/frame'
-import MainPage from './components/mainpage'
-import Rules from './components/rules'
-import Contact from './components/contact'
+import Layout from './components/frame/frame'
+import MainPage from './components/routes/mainpage'
+import Rules from './components/routes/rules'
+import Contact from './components/routes/contact'
 
 function App() {
 

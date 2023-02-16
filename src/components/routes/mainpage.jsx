@@ -1,4 +1,4 @@
-import styles from './frame.module.css'
+import styles from '../frame/styles.module.css'
 
 function MainPage(){
     return (
