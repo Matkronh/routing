@@ -1,6 +1,7 @@
 import styles from './frame.module.css'
 
 function MainPage(){
+    return (
     <div>
         <h1>Main Page</h1>
 
@@ -9,6 +10,7 @@ function MainPage(){
             <p>Section Test Text</p>
         </section>
     </div>
+    )
 }
 
 export default MainPage

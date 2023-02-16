@@ -14,7 +14,7 @@ function App() {
 
             <Route index element={<MainPage />} />
             <Route path='rules' element={<Rules />} />
-            <Route path='contact' element={<Contact />} />
+            <Route path='Contact' element={<Contact />} />
             <Route path='*' element={<h1>404 Error</h1>} />
             
           </Route>
